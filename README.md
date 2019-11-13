@@ -1,6 +1,6 @@
 # a600ledboard
 
-Just a recreated version of the A600 Led Board with smd components.
+Just a recreated version of the A600 led Board with smd components.
 
 This tiny board allow to add or replace the indicator leds from the A600 in case of missing or broken board. I've made this because the board on my A600 was broken and with one cabled cutted.
 
@@ -9,7 +9,8 @@ I've redesigned it to use smd componentes. Also the connector is arranged in lin
 # Note
 
 This is a work in progress, several testing must be made but it should work as is. I take no responsibiltiy for any damage to any equipment that results from the use of this board. USE AT YOUR OWN RISK!
-If you like the project, buy me a beer :) info@arananet.net
+
+If you like the project, buy me a beer or at least say thanks :) info@arananet.net
 
 
 # Images
@@ -32,7 +33,7 @@ If you like the project, buy me a beer :) info@arananet.net
 
 13/11/2019: Updated license stuff (I usually not do this but I must start it with this).
 
-13-11-2019 Initial release.
+13/11/2019 Initial release.
 
 # License
 
