@@ -14,8 +14,8 @@ If you like the project, buy me a beer :) info@arananet.net
 
 # Images
 
-<img src="https://github.com/arananet/a600ledboard/blob/master/images/top.png?raw=true" width="400">
-<img src="https://github.com/arananet/a600ledboard/blob/master/images/bottom.png?raw=true" width="400">
+<img src="https://github.com/arananet/a600ledboard/blob/master/images/top.png?raw=true" width="100">
+<img src="https://github.com/arananet/a600ledboard/blob/master/images/bottom.png?raw=true" width="100">
 
 # BOM 
 
