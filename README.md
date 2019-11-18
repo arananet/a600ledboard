@@ -31,6 +31,8 @@ If you like the project, buy me a beer or at least say thanks :) info@arananet.n
 
 # Updates
 
+18/11/2019: Minor silkscreen fixes.
+
 13/11/2019: Updated license stuff (I usually not do this but I must start it with this).
 
 13/11/2019 Initial release.
